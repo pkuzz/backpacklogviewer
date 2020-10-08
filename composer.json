@@ -19,8 +19,8 @@
         }
     ],
     "require": {
-        "illuminate/support": "~6.0",
-        "arcanedev/log-viewer": "~5.0",
+        "illuminate/support": "~8.0",
+        "arcanedev/log-viewer": "~8.0",
         "php":">=7.0"
     },
     "require-dev": {
